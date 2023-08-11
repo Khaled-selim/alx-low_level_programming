@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main single num
+ * main - single num
  *
  * Return: Always 0.
  */
