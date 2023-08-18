@@ -1,14 +1,13 @@
 #include "main.h"
-
 /**
- * mul - a int & b in c int & return c
- * Return: the result of the operation
+ * mul - returns the product of its parameters
+ * @a: int type number
+ * @b: int type number
+ * Return:0
  */
+
+
 int mul(int a, int b)
 {
-	int c;
-
-	c = a * b;
-
-	return (c);
+return (a * b);
 }
